@@ -32,6 +32,4 @@ Usage
 [lambda]: https://aws.amazon.com/lambda/
 [ansible]: https://www.ansible.com/
 [blogpost]: https://tech.yplanapp.com/2016/05/27/deploying-amazon-lambda-functions-with-ansible/
-# Ansible-python-lambda
-# Ansible-python-lambda
-# Ansible-python-lambda1
+
